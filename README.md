@@ -1,4 +1,4 @@
-# charter-proposals
+# Proposed Community Group Charters for public review
 
 This is a repository for discussions and iterations on possible charters for Community Groups.
 
